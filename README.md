@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingstarmannu&label=Profile%20views&color=0e75b6&style=flat" alt="codingstarmannu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manoj" target="blank"><img src="https://img.shields.io/twitter/follow/manoj?logo=twitter&style=for-the-badge" alt="manoj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/manojpant097" target="blank"><img src="https://img.shields.io/twitter/follow/manojpant097?logo=twitter&style=for-the-badge" alt="manojpant097" /></a> </p>
 
 - 🔭 I’m currently working on **ChatManch**
 
@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manoj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manoj pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj pant" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/manoj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manoj" height="30" width="40" /></a>
+<a href="https://twitter.com/manojpant097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manojpant097" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manoj-pant-4b470922b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-pant-4b470922b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:21715154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21715154" height="30" width="40" /></a>
 <a href="https://instagram.com/__mannupant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mannupant" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/manoj pant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manoj pant" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codingmanch musings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingmanch musings" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
